@@ -14,7 +14,7 @@ First, clone the repository:
 
     git clone https://github.com/ztizzlegaming/agricultural-time-series
     
-Next, replace the [path variable](https://github.com/ztizzlegaming/agricultural-time-series/blob/6c4ff4c399f2a3b99c9b8ddadcaf6b2605314969/code/final_project.R#L5) with the path to the code/data folder. For example, if you cloned the repo to your desktop, it will be something like:
+Next, in [code/final_project.R](https://github.com/ztizzlegaming/agricultural-time-series/blob/master/code/final_project.R), replace the [path variable](https://github.com/ztizzlegaming/agricultural-time-series/blob/6c4ff4c399f2a3b99c9b8ddadcaf6b2605314969/code/final_project.R#L5) with the path to the code/data folder. For example, if you cloned the repo to your desktop, it will be something like:
 
     path = '~/Desktop/agricultural-time-series/code/'
     
