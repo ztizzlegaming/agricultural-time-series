@@ -4,7 +4,7 @@
 
 This is the final project for STAT 131 - Time Series at Harvard University. I performed a statistical analysis of agricultural market data from the past 40 years using time series methods.
 
-The code and data is located in [code/](https://github.com/ztizzlegaming/agricultural-time-series/tree/master/code), the proposal and final report are in [reports/](https://github.com/ztizzlegaming/agricultural-time-series/tree/master/reports), and the plots used in the reports are in [plots/](https://github.com/ztizzlegaming/agricultural-time-series/tree/master/plots).
+The code and data are located in [code/](https://github.com/ztizzlegaming/agricultural-time-series/tree/master/code), the proposal and final report are in [reports/](https://github.com/ztizzlegaming/agricultural-time-series/tree/master/reports), and the plots used in the reports are in [plots/](https://github.com/ztizzlegaming/agricultural-time-series/tree/master/plots).
 
 The final report is here: [Time Series Modeling of Agricultural Market Data.pdf](https://github.com/ztizzlegaming/agricultural-time-series/blob/master/reports/Time%20Series%20Modeling%20of%20Agricultural%20Market%20Data.pdf).
 
