@@ -18,4 +18,4 @@ Next, in [code/final_project.R](https://github.com/ztizzlegaming/agricultural-ti
 
     path = '~/Desktop/agricultural-time-series/code/'
     
-You should then be able to run the file using R-Studio or the command line.
+You should then be able to run the file using RStudio or the command line.
