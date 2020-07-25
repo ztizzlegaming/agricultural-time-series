@@ -2,7 +2,7 @@
 # Time Series Modeling of Agricultural Market Data
 # Jordan Turley
 
-path = '~/Google Drive/School/Harvard University/Semester 1/STAT 131 - Time Series/Final Project/'
+path = '~/Desktop/agricultural-time-series/code/'
 corn = read.csv(paste(path, 'corn-prices-historical-chart-data.csv', sep = ''), header = TRUE)
 cotton = read.csv(paste(path, 'cotton-prices-historical-chart-data.csv', sep = ''), header = TRUE)
 soybeans = read.csv(paste(path, 'soybean-prices-historical-chart-data.csv', sep = ''), header = TRUE)
